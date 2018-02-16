@@ -1,0 +1,17 @@
+.ctitle-text{
+     margin-right: 20px;
+     border: 3px solid black;
+     
+}
+.cmain-text{
+     padding: 20px 20px 20px 20px;
+     border: 1px black solid;
+}
+.ctext-left{
+    margin-right: 20px;
+    float: right;
+    clear: right;
+}
+.ctext-left-border{
+    border: 1px black solid;
+}

@@ -1,0 +1,84 @@
+body{
+    margin: 0;
+    background-color: #AAAAAA;
+    font-family: 'Bangers', cursive;
+}
+
+/* Helpful */
+.link{
+    color: #5f5692;
+    float: left;
+}
+.text-center{
+     text-align: center;
+}
+
+
+/* Navigation Bar */
+.nav-main{
+    height: 30px;
+    width: 100%;
+    background-color: #d6d6d6;
+    border-bottom: 3px solid #4B4B4A;
+}
+.nav-logo{
+    height:90%;
+    
+}
+.nav-list{
+    float: right;
+    margin-top: 7px;
+}
+.nav-item{
+    float: left;
+    margin-right: 15px;
+    list-style: none;
+}
+
+
+/* Footer */
+.footer-main{
+    background-color: #d6d6d6;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    border-top: 3px solid #4B4B4A;
+
+}
+
+.footer-text{
+    float: right;
+    margin-left: 15px;
+    color: #00000021;
+}
+.footer-section{
+    float: left;
+}
+
+.social{
+    float: right;
+}
+
+/* Column stuff */
+.c-container{
+    padding: 2%;
+}
+
+.c-container:after {
+    clear: both;
+    display: block;
+    content: "";
+}
+.column{
+    float: left;
+    width: 50%;
+}
+.c-left{
+    width: 40%;
+    text-align: right;
+    padding-top: 30px;
+}
+.c-right{
+    width: 50%;
+    text-align: left;
+}
